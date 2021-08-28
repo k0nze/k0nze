@@ -10,6 +10,6 @@ On my Youtube channel, I'm sharing my knowledge of programming and computer scie
 [![`[Twitter]`](https://img.shields.io/badge/-@k0nze_-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/k0nze_) 
 [![`[Discord]`](https://img.shields.io/discord/713121297407672380.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.k0nze.gg)
 [![`[Patreon]`](https://img.shields.io/badge/-k0nze-f96854?logo=patreon&logoColor=white)](https://patreon.com/k0nze)
-[![`[LinkedIn]`](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)]()
+[![`[LinkedIn]`](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/konstantin-luebeck/)
 
 [k0nze.dev](https://k0nze.dev)
