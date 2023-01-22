@@ -1,6 +1,6 @@
 # Hi, I'm k0nze! 👋
 
-Graduate research assistant working on latency prediction models for AI workloads executed on accelerator hardware enabling fast optimization loops for neural network architecture search (NAS) and pre-silicon hardware evaluation. 
+I'm a graduate research assistant working on latency prediction models for AI workloads executed on accelerator hardware enabling fast optimization loops for neural network architecture search (NAS) and pre-silicon hardware evaluation. 
 
 My expertise includes:
 * 5+ years of Verilog programming and FPGA synthesis ⚙️⚡
