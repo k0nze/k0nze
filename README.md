@@ -3,10 +3,10 @@
 I'm a graduate research assistant working on latency prediction models for AI workloads executed on accelerator hardware enabling fast optimization loops for neural network architecture search (NAS) and pre-silicon hardware evaluation. 
 
 My expertise includes:
-* 5+ years of Verilog programming and FPGA synthesis ⚙️⚡
-* 4+ years in Deep Neural Network applications 🤖
-* 4+ years of C/C++ programming for high-performance computing and embedded devices 🖥️
-* 4+ years of Python programming for scientific analysis 🐍🧪
+* ️⚡ 5+ years of Verilog programming and FPGA synthesis 
+* 🤖 4+ years in Deep Neural Network applications
+* 👨‍💻 4+ years of C/C++ programming for high-performance computing and embedded devices
+* 🐍 4+ years of Python programming for scientific analysis
 
 My colleagues describe me as a detail-oriented analytical thinker with a passion for learning new things. I am a team player because I enjoy tackling challenges as a group and discussing problem solutions from different angles to learn from others and share my knowledge.
 
