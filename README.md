@@ -11,8 +11,6 @@ My expertise includes:
 
 My colleagues describe me as a detail-oriented analytical thinker with a passion for learning new things. I am a team player because I enjoy tackling challenges as a group and discussing problem solutions from different angles to learn from others and share my knowledge.
 
-I am currently working on my PhD thesis at the embedded systems group (Prof. Bringmann) at the University of Tübingen.
-
 I am currently working on my PhD thesis at the embedded systems group (Prof. Bringmann) at the [University of Tübingen](https://github.com/ekut-es).
 
 ## Find me elsewhere 🌍
