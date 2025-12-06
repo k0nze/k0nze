@@ -1,13 +1,13 @@
 # Hi, I'm k0nze! 👋
 
-I'm a graduate research assistant working on latency prediction models for AI workloads executed on accelerator hardware, enabling fast optimization loops for neural network architecture search (NAS) and pre-silicon hardware evaluation. 
-
 My expertise includes:
+- 🦀 Rust development for Linux drivers
+- 🏛️ 6+ years of computer architecture design for AI accelerators targeting FPGAs and ASICs 
 - ⚡ 8+ years of Verilog programming and FPGA synthesis
-- 🤖 8+ years in Deep Neural Network applications and deployment on resource constrained devices
-- 👨‍💻 8+ years of C/C++ programming for high-performance computing and embedded devices
+- 👨‍💻 8+ years of C/C++ programming for high-performance computing and embedded systems
+- 🤖 8+ years in AI applications and deployment on resource-constrained edge devices
 - 🐍 10+ years of Python programming for scientific analysis
-- 🐧 19+ years of Linux usage and programming (I ordered my first Ubuntu 5.04 install CD directly from Canonical in 2005)  
+- 🐧 19+ years of Linux usage and programming (I ordered my first Ubuntu 5.04 install CD directly from Canonical in 2005) 
 
 My colleagues describe me as a detail-oriented analytical thinker with a passion for learning new things. I am a team player because I enjoy tackling challenges as a group and discussing problem solutions from different angles to learn from others and share my knowledge.
 
