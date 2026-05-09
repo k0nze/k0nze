@@ -3,10 +3,15 @@
 Processor architect focused on AI accelerator design, spanning digital architecture, HW/SW co-design, and emerging compute systems.
 
 🏛️ Designing architectures for photonic AI processors across digital and hybrid domains
+
 ⚙️ End-to-end AI accelerator development, from architecture and HW/SW co-design to implementation and system integration
+
 🧠 Experience across AI systems from edge to high-performance environments
+
 👥 Technical lead for cross-functional collaboration across hardware, software, and external partners
+
 🔬 Strong foundation in low-power AI hardware and architectural design space exploration
+
 
 ## Find me elsewhere 🌍
 
