@@ -1,17 +1,12 @@
 # Hi, I'm k0nze! 👋
 
-My expertise includes:
-- 🦀 Rust development for Linux drivers
-- 🏛️ 6+ years of computer architecture design for AI accelerators targeting FPGAs and ASICs 
-- ⚡ 8+ years of Verilog programming and FPGA synthesis
-- 👨‍💻 8+ years of C/C++ programming for high-performance computing and embedded systems
-- 🤖 8+ years in AI applications and deployment on resource-constrained edge devices
-- 🐍 10+ years of Python programming for scientific analysis
-- 🐧 19+ years of Linux usage and programming (I ordered my first Ubuntu 5.04 install CD directly from Canonical in 2005) 
+Processor architect focused on AI accelerator design, spanning digital architecture, HW/SW co-design, and emerging compute systems.
 
-My colleagues describe me as a detail-oriented analytical thinker with a passion for learning new things. I am a team player because I enjoy tackling challenges as a group and discussing problem solutions from different angles to learn from others and share my knowledge.
-
-I am currently working on my PhD thesis at the embedded systems group (Prof. Bringmann) at the [University of Tübingen](https://github.com/ekut-es).
+🏛️ Designing architectures for photonic AI processors across digital and hybrid domains
+⚙️ End-to-end AI accelerator development, from architecture and HW/SW co-design to implementation and system integration
+🧠 Experience across AI systems from edge to high-performance environments
+👥 Technical lead for cross-functional collaboration across hardware, software, and external partners
+🔬 Strong foundation in low-power AI hardware and architectural design space exploration
 
 ## Find me elsewhere 🌍
 
